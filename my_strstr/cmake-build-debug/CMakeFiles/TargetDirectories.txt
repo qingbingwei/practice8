@@ -1,0 +1,3 @@
+D:/my_project/my_strstr/cmake-build-debug/CMakeFiles/my_strstr.dir
+D:/my_project/my_strstr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/my_project/my_strstr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
